@@ -31,7 +31,9 @@
 
 ### Pandas vs Builtin List: Filter Performance
 
+![filter](https://user-images.githubusercontent.com/31076511/193230632-ff85f509-324e-44c9-a632-06dc8b3bace1.png)
 
 ### Pandas vs Builtin List: Apply Performance
+![apply](https://user-images.githubusercontent.com/31076511/193230671-1cd81a18-2898-4c8f-94a7-95b2f562dd99.png)
 
 
